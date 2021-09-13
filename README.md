@@ -1,4 +1,4 @@
-# Web-Scraping-Homework
+# Web-Scraping-Project
 
 This repository includes the submission requirements, which are:
 
